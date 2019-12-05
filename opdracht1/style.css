@@ -1,0 +1,53 @@
+html{
+    height: 99%;
+    width: 99%;
+}
+body{
+    height: 99%;
+    width: 99%;
+    display: inline-grid;
+    align-items: center;
+    justify-items: center;
+}
+
+#form{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 30px;
+}
+#registreer{
+    display:flex;
+    flex-direction:row;
+    color:lime;
+    margin-left:50%;
+}
+#voornaam{
+    display:flex;
+    flex-direction:row;
+}
+ #achternaam{
+    display:flex;
+    flex-direction: row;
+}
+#geboortedatum{
+    display:flex;
+    flex-direction: row;
+}
+#nickname{
+    display:flex;
+    flex-direction: row;
+}
+#emailadres{
+    display:flex;
+    flex-direction: row;
+}
+#telefoonnummer{
+    display:flex;
+    flex-direction: row;
+}
+
+#input{
+  margin-left:20%;
+  align-items: center;
+}
