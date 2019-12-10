@@ -1,0 +1,149 @@
+html{
+    height: 99%;
+    width: 99%;
+}
+body{
+    height: 99%;
+    width: 99%;
+}
+#GA{
+    display: flex;
+    flex-direction: row;
+}
+#kleinbalk{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    width: 2%;
+    margin-left: 12px;
+}
+#grotebalk{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    margin-left: 3px;
+    width: 100%;
+}
+#PB{
+    display: flex;
+    flex-direction: row;
+}
+#part{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#Burger{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+#Burger input{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+}
+#OBN{
+    display: flex;
+    flex-direction: row;
+}
+#Onder{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#btw{
+    display: flex;
+    flex-direction: row;
+    margin-left: 85px;
+}
+#btw input{
+    display: flex;
+    flex-direction: row;
+    margin-left: 85px;
+}
+#naam4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#naam4 input{
+    display: flex;
+    flex-direction: column;
+    margin-left: 49px;
+}
+#adres1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#adres1 input{
+    display: flex;
+    flex-direction: column;
+    margin-left: 147px;
+}
+#PostP{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#pc{
+    display: flex;
+    flex-direction: row;
+    margin-left: 65px;
+}
+#p{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+}
+#TenF{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#tele{
+    display: flex;
+    flex-direction: row;
+    margin-left:   75px;
+}
+#Fax{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#fax{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#mail{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+#email{
+    display: flex;
+    flex-direction: row;
+    margin-left:   108px;
+}
+#GAS{
+    display: flex;
+    flex-direction: row;
+}
+#kleinbalken{
+    display: flex;
+    flex-direction: row;
+    width: 2%;
+    margin-left: 12px;
+}
+#grotebalken{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3px;
+    width: 100%;
+}
+
+

@@ -48,6 +48,41 @@ body{
 }
 
 #input{
-  margin-left:20%;
+  margin-left:;
   align-items: center;
+}
+#voornaam input{
+    display:flex;
+    flex-direction:column;
+    margin-left:62px;
+}
+#achternaam input{
+    display:flex;
+    flex-direction:column;
+    margin-left:52px;
+}
+#geboortedatum input{
+    display:flex;
+    flex-direction:row;
+    margin-left:30px;
+}
+#nickname input{
+    display:flex;
+    flex-direction:column;
+    margin-left:64px;
+}
+#emailadres input{
+    display:flex;
+    flex-direction:column;
+    margin-left:57px;
+}
+#telefoonnummer input{
+    display:flex;
+    flex-direction:column;
+    margin-left:21px;
+}
+#button{
+    display:flex;
+    flex-direction:row;
+    margin-left:215px;
 }
